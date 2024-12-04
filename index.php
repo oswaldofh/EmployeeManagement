@@ -25,7 +25,7 @@
     <h1>Bienvenido(a) a Employee Management.</h1>
     <p>El lugar donde puede gestionar los colaboradores a un solo click.</p>
 
-    <button type="button" class="btn btn-primary" id="start">Iniciar</button>
+    <button type="button" class="btn btn-success" id="start">Iniciar</button>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
